@@ -1,8 +1,7 @@
 - 👋 Hello Everyoe! I’m @CedJud247 aka Ced
 - 👀 I'm interested in web development, creating websites and applications, learning fundamentals and expanding
 - 🌱 I’m currently brand new to everything programming/coding
-- 💞️ I’m looking to create exiting applications and websites with unique user experiences
-- 📫 My email address is CedJud247@yahoo.com / CedJud247@gmail.com 
+- 💞️ I’m looking to create exiting applications and websites with unique user experiences 
 - I'm here looking for help to learn, practice, and implement new information!
 
 <!---
